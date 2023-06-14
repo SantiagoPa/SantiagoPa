@@ -49,7 +49,7 @@
 
   <div id="user-content-toc">
     <ul align="center">
-      <summary><h2 style="display: inline-block">Cloud Hosting :cloud:</h2></summary>
+      <summary><h2 style="display: inline-block">Cloud :cloud:</h2></summary>
     </ul>
   </div>
    <!--tech stack icons-->
