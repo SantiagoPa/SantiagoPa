@@ -41,7 +41,7 @@
   <!--tech stack icons-->
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,jest,ts&perline=14" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,nestjs,jest,ts&perline=14" />
     </a>
   </div>
 
