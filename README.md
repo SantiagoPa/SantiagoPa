@@ -27,7 +27,7 @@
   <!--tech stack icons-->
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vite,vue,react,materialui,redux,ts&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vite,vue,react,materialui,redux,ts,nextjs&perline=14" />
     </a>
   </div>
 
@@ -41,7 +41,7 @@
   <!--tech stack icons-->
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,nestjs,jest,ts&perline=14" />
+      <img src="https://skillicons.dev/icons?i=py,npm,nodejs,express,nestjs,jest,ts,prisma,mongodb,mysql,postgres&perline=14" />
     </a>
   </div>
 
@@ -55,7 +55,7 @@
    <!--tech stack icons-->
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,firebase,linux,nginx&perline=14" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,firebase,linux,nginx&perline=14" />
     </a>
   </div>
 
@@ -69,7 +69,7 @@
    <!--tech stack icons-->
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,md,postman,vscode,discord&perline=14" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,bash,md,postman,vscode&perline=14" />
     </a>
   </div>
 
