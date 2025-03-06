@@ -6,7 +6,7 @@
 
 <br>
 
-- A passionate Frontend developer and many backend notions to make complete applications
+- A passionate Fullstack developer, to make complete applications
 - Currently learning cloud computing on my own
 - [github statistics in 3d](https://skyline.github.com/santiagopa/2022)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
