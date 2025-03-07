@@ -8,7 +8,6 @@
 
 - A passionate Fullstack developer, to make complete applications
 - Currently learning cloud computing on my own
-- [github statistics in 3d](https://skyline.github.com/santiagopa/2022)
 <!-- - Personal website [link](https://www.0xabdulkhalid.ml) -->
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
